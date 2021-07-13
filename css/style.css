@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 1000px;
+}
+
+.cookies {
+  width: 150px;
+  border: 1px solid green;
+  padding: 10px 10px 20px 10px;
+
+  position: fixed;
+  top: 25px;
+  right: 25px;
+}
+
+.button {
+  border: none;
+  background-color: green;
+  color: #fff;
+  padding: 2px 3px;
+  border-radius: 2px;
+
+  position: relative;
+  right: -38px;
+  bottom: -25px;
+}
